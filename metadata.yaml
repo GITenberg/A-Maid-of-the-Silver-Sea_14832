@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3234
     wikipedia: https://en.wikipedia.org/wiki/William_Arthur_Dunkerley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14832#A-Maid-of-the-Silver-Sea
 gutenberg_issued: '2005-01-29'
 gutenberg_type: Text
 identifiers:
